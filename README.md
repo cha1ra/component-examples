@@ -1,3 +1,14 @@
+# Component Examples
+
+コンポーネントのサンプルを格納しておくためのリポジトリ  
+  
+- https://storybook.js.org/docs/react/get-started
+- https://storybook.js.org/tutorials/intro-to-storybook/react/ja/get-started/
+
+```bash
+yarn storybook
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
